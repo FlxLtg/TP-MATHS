@@ -1,0 +1,26 @@
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.exe
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.deps.json
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.runtimeconfig.json
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.runtimeconfig.dev.json
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.dll
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.pdb
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.csprojAssemblyReference.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.AssemblyInfoInputs.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.AssemblyInfo.cs
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.csproj.CoreCompileInputs.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.dll
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.pdb
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.genruntimeconfig.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.exe
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.deps.json
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.runtimeconfig.json
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.runtimeconfig.dev.json
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.dll
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\bin\Debug\netcoreapp3.1\TP-Maths-New.pdb
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.csprojAssemblyReference.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.AssemblyInfoInputs.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.AssemblyInfo.cs
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.csproj.CoreCompileInputs.cache
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.dll
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.pdb
+C:\Users\nyzr\Google Drive\COURS IUT\Math\TP-Maths-New - Copie\TP-Maths-New\obj\Debug\netcoreapp3.1\TP-Maths-New.genruntimeconfig.cache
